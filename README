@@ -1,0 +1,8 @@
+A simple neural network playground
+
+A bunch of toy datasets of two dimensional binary classification
+Simple two layer neural network
+sliders at the top for initializing the network
+There's a button for training
+middle is the output on the dataset
+bottom lets you select a point in the training

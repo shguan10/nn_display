@@ -2,6 +2,17 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
 
+## Skeleton
+
+A simple neural network playground
+
+A bunch of toy datasets of two dimensional binary classification
+Simple two layer neural network
+sliders at the top for initializing the network
+There's a button for training
+middle is the output on the dataset
+bottom lets you select a point in the training
+
 ## Development server
 
 To start a local development server, run:
